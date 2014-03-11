@@ -8,6 +8,6 @@ The goal of this project is to help find anti-parasitic compounds in an open sci
 
 More information about the competition here: http://www.tdtproject.org/challenge-3---cdpk1-virtual-screening.html
 
-Please see tutorial at: 
+Please see tutorial at: https://github.com/joelkarpiak/tdt_part3/tutorial.pdf
 
 http://tools.bkslab.org/~rgc/tdt2014/
