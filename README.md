@@ -10,4 +10,4 @@ More information about the competition here: http://www.tdtproject.org/challenge
 
 Please see tutorial at: https://github.com/joelkarpiak/tdt_part3/tutorial.pdf
 
-http://tools.bkslab.org/~rgc/tdt2014/
+http://aaaa.docking.org/~rgc/tdt2014/
